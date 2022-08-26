@@ -70,5 +70,5 @@ void draw()
   ellipse(0,0,8,30);
   
   //coordinate tracking
-  println (mouseX +"," + mouseY);
+  (mouseX +"," + mouseY);
 }
