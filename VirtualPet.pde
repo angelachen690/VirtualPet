@@ -40,8 +40,8 @@ void draw()
   fill(0,0,0);
   ellipse(153,72,6,6);
   
-  //spots
   stroke(152,118,84);
+  //spots
   fill(152,118,84);
   rect(185,246,20,30);
   rect(211,215,30,25);
